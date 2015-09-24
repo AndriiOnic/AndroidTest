@@ -2,5 +2,3 @@
 ExamplesTest
 
 her we are!
-
-b!
